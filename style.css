@@ -2,6 +2,7 @@ h1 {
 	margin: 10px 30px 10px 30px;
 	padding: 10px 30px 10px 30px;
 	display: flex;
+	font-family: "Gloria Hallelujah", cursive;
 }
 .allCards {
 	display: flex;
